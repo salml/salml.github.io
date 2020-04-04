@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Tufts University School of Engineering, 2017
+* M.S. in Analytics, North Carolina State University, 2018
 
-Work experience
+Work Experience
 ======
+* Elder Research
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
