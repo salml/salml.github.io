@@ -18,4 +18,4 @@ main:
   # - title: "CV"
   #   url: /cv/
   - title: 'Research'
-  - url: /research/
+    url: /research/
